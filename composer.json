@@ -1,0 +1,22 @@
+{
+
+  "name" : "gnarm/flycatcher",
+
+  "require" : {
+
+    "gnarm/gryphonphp" : "dev-dev",
+    "gnarm/flycatcher-medoo" : "dev-dev"
+
+  },
+
+  "autoload" : {
+
+    "psr-4" : {
+
+      "Flycatcher\\" : "Flycatcher/"
+
+    }
+
+  }
+
+}
